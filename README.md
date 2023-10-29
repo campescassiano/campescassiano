@@ -4,6 +4,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-cassianocampes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cassianocampes@gmail.com)](mailto:cassianocampes@gmail.com)
 
 ## Hi 👋, 
-I'm Cassiano Campes, I'm a Kernel developer 👨‍💻 who is passionate about technologies and its entire ecosystem. 
+
+I am an embedded software engineer 👨‍💻 based in Brazil 🇧🇷. Currently, I am working full-remote on R&D projects for IoT, more specifically in developing embedded systems using the MQTT-SN (MQTT for Sensor Networks) stack, MQTT stack, and other TCP/IP-related protocols for IoT products.
+
+My past experiences range from Network Operating Systems, and Linux kernel development, down to embedded systems development focusing on IoT.
+
+My major interests are embedded systems development - working closely with hardware and software; Linux kernel development; Computer Networks, and flash-based memory devices.
 
 "You want something. Go get it. Period." 
