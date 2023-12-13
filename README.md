@@ -5,7 +5,7 @@
 
 ## Hi 👋, 
 
-I am an embedded software engineer 👨‍💻 based in Brazil 🇧🇷. Currently, I am working full-remote at [Venko Networks](https://github.com/venko-networks) on R&D projects for Telecommunications.
+I am an embedded software engineer 👨‍💻 based in Brazil 🇧🇷. Currently, I am working full-remote at [Venko Networks]([https://github.com/venko-networks](https://www.linkedin.com/company/venkotechnologies/mycompany/verification/)) on R&D projects for Telecommunications.
 
 My past experiences range from Network Operating Systems, and Linux kernel development, down to embedded systems development focusing on IoT.
 
