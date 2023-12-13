@@ -5,7 +5,7 @@
 
 ## Hi 👋, 
 
-I am an embedded software engineer 👨‍💻 based in Brazil 🇧🇷. Currently, I am working full-remote on R&D projects for IoT, more specifically in developing embedded systems using the MQTT-SN (MQTT for Sensor Networks) stack, MQTT stack, and other TCP/IP-related protocols for IoT products.
+I am an embedded software engineer 👨‍💻 based in Brazil 🇧🇷. Currently, I am working full-remote at [Venko Networks](https://github.com/venko-networks) on R&D projects for Telecommunications.
 
 My past experiences range from Network Operating Systems, and Linux kernel development, down to embedded systems development focusing on IoT.
 
